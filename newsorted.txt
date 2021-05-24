@@ -1,0 +1,5 @@
+Name : Alli Age : 73, PhoneNo : 38838.
+Name : Bale Age : 40, PhoneNo : 77888.
+Name : John Age : 63, PhoneNo : 83833.
+Name : Mubarak Age : 29, PhoneNo : 63637.
+Name : rashford Age : 24, PhoneNo : 838399.
